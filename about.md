@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+プログラムを書いたりしています。
+
+Python2,3系/Ruby
+
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+質問があれば、下記のメールアドレスまでどうぞ。
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[s0ralit@protonmail.com](mailto:s0ralit@protonmail.com)
