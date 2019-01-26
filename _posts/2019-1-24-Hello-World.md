@@ -3,7 +3,7 @@ layout: post
 title: Hello, World!
 ---
 
-このサイトは、Jekyll Nowというフレームワークを用いて作成されました。
+This site was created using a framework called Jekyll Now.
 
 
-めちゃくちゃ簡単に作れるので皆さんも是非作成してみてください。
+Please make it by all means because it is easy to make it insanely.
